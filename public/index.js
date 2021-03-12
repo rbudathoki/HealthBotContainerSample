@@ -107,7 +107,7 @@ function initBotConversation() {
                             // Use the following activity to proactively invoke a bot scenario
                             
                             triggeredScenario: {
-                                trigger: "patfirst001",
+                                trigger: "PAT_FIRST_QnA",
                                 args: {
 
                                 }
